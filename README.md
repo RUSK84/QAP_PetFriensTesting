@@ -1,6 +1,6 @@
 # QAP_PetFriensTesting
 
-Тестовый проект к 19 модулю SkillFactory курса QAP
+Тестовый проект к 24 модулю SkillFactory курса QAP
 
 В директории /tests располагается файл с тестами
 
